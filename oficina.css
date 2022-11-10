@@ -1,4 +1,9 @@
-body{
+p{
     text-align: center;
-    background-color: slategray;
 }
+body{
+    background-color: slategray;
+    }
+em strong{
+    color: magenta;
+}    
