@@ -1,23 +1,24 @@
 p{
-    text-align: center;
+text-align: center;
 }
 body{
-    background-color: slategray;
+background-color: slategray;
     }
 em strong{
     color: magenta;
 }    
 #mecanica {
-    width: 50%;
+height: 400px;
+width: 1500px;
 }
 #logofinal {
-    width: 80%;
+width: 80%;
 }
 body {
 
 }
 
-.sobre{
-    background: #b33636;
-    padding: 30px;
+sobre{
+background: #b33636;
+padding: 30px;
 }
